@@ -10,12 +10,3 @@ if (geld <25) {
 
 }
 
-var student = {                
-    firstName:"sofyan",        
-    lastName:"ahalli",
-    age:17,
-    height:180,
-    fullName : function() {
-       return this.firstName + " " + this.lastName;
-
-    }

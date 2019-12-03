@@ -8,6 +8,4 @@ if (geld <25) {
 } else{
     alert("Aanvraag geaccepteerd");
 
-}
-
-
+}  
